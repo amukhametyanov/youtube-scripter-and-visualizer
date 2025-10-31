@@ -1,0 +1,5 @@
+{
+  "name": "YouTube Script Master",
+  "description": "A tool to generate complete YouTube scripts on any topic, complete with AI-generated visuals. Users can select the language, get up-to-date information using Google Search grounding, and ask follow-up questions to a helpful chatbot.",
+  "requestFramePermissions": []
+}
